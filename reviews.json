@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Jane Smith",
+        "subject": "Introduction to Programming",
+        "stars": 5,
+        "review": "Dr. Smith is extremely knowledgeable and approachable. She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. John Doe",
+        "subject": "Calculus I",
+        "stars": 4,
+        "review": "The class is tough, but Dr. Doe's clear explanations helped me get through it."
+      },
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "World History",
+        "stars": 5,
+        "review": "An engaging and passionate professor. Her lectures are a joy to attend."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Quantum Mechanics",
+        "stars": 3,
+        "review": "The subject is difficult, and Dr. Brown's teaching style is not very accommodating."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Organic Chemistry",
+        "stars": 4,
+        "review": "Dr. Lee is a good professor, but the course content is very challenging."
+      },
+      {
+        "professor": "Dr. Robert White",
+        "subject": "Introduction to Psychology",
+        "stars": 5,
+        "review": "Amazing professor who truly cares about his students. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Angela Martin",
+        "subject": "Marketing 101",
+        "stars": 2,
+        "review": "Dr. Martin's lectures are not very engaging, and her exams are tough."
+      },
+      {
+        "professor": "Dr. William Green",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Dr. Green is knowledgeable, but sometimes goes too fast during lectures."
+      },
+      {
+        "professor": "Dr. Laura Scott",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Dr. Scott is a fantastic professor who makes every class interesting."
+      },
+      {
+        "professor": "Dr. Thomas Clark",
+        "subject": "Philosophy 101",
+        "stars": 3,
+        "review": "Dr. Clark is a decent professor, but the material is dry."
+      },
+      {
+        "professor": "Dr. Rebecca Adams",
+        "subject": "Introduction to Literature",
+        "stars": 4,
+        "review": "Dr. Adams is a good professor, but the reading workload is heavy."
+      },
+      {
+        "professor": "Dr. George Hill",
+        "subject": "Biology 101",
+        "stars": 5,
+        "review": "Dr. Hill is amazing! He makes biology fun and easy to understand."
+      },
+      {
+        "professor": "Dr. Olivia Evans",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Evans is passionate about art, but the lectures can be long."
+      },
+      {
+        "professor": "Dr. Richard Harris",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "The course is very math-heavy, and Dr. Harris can be hard to follow at times."
+      },
+      {
+        "professor": "Dr. Megan Turner",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Turner is an excellent professor who cares deeply about the environment."
+      },
+      {
+        "professor": "Dr. David Wilson",
+        "subject": "Macroeconomics",
+        "stars": 4,
+        "review": "Dr. Wilson is a solid professor, but his exams are quite difficult."
+      },
+      {
+        "professor": "Dr. Emma Thompson",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Thompson's classes are fascinating, and she encourages student participation."
+      },
+      {
+        "professor": "Dr. Charles Baker",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Dr. Baker knows his stuff, but the lectures are pretty dry."
+      },
+      {
+        "professor": "Dr. Stephanie Young",
+        "subject": "Ethics",
+        "stars": 4,
+        "review": "Dr. Young is a thoughtful professor who encourages deep thinking."
+      },
+      {
+        "professor": "Dr. Andrew Walker",
+        "subject": "Business Law",
+        "stars": 5,
+        "review": "Dr. Walker is fantastic at explaining complex legal concepts. Highly recommend"
+      }
+      ]
+      }  
